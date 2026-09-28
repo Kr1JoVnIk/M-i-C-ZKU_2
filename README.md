@@ -4,7 +4,7 @@ Implementation and comparative analysis of number-theoretic algorithms and their
 
 ## Project Structure
 *   `task1_LAB2.cpp` — Implementation of integer factorization algorithms. 
-*   Trial Division. 
+*   Trial division method. 
 *   Fermat's factorization method.
 *   `task2_LAB2.cpp` — Implementation of primality and perfect number tests. 
 *   Sieve of Eratosthenes (finding all primes up to N). 
